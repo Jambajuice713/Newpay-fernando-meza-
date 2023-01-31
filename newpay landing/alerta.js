@@ -1,1 +1,0 @@
-alert("¡Comienza el impácto con nosotros ahora!");
